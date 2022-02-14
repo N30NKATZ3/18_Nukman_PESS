@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* Navbar CSS */
+#topnavbar {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #c93934;
+}
+#button {
+  background-color: #ffffff;
+  border: #000000;
+  color: black;
+}
+#bottomnavbar {
+  background-color: #f2f2f2;
+}
+.nav-item {
+  margin-right: 100px;
+}
+/* Index CSS */
+.featured-box {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+/* Products CSS */
+.card img {
+  margin-bottom: 10px;
+  height: 250px;
+  width: 250px;
+}
+/* Contact CSS */
+#submitButton {
+  background-color: #c93934;
+  color: white;
+}
+/* Footer CSS */
+footer {
+  background-color: #1e212a;
+  color: white;
+}
+footer hr {
+  border: 0;
+  display: block;
+  width: 97%;
+  background-color: white;
+  height: 1px;
+}
+.top-footer {
+  margin-top: 30px;
+}
+.bottom-footer {
+  padding-bottom: 40px;
+  margin-top: 30px;
+}
+.fa-facebook-square {
+  font-size: 30px;
+  height: 40px;
+  width: 40px;
+  padding-top: 6px;
+  text-align: center;
+  background: #3B5998;
+  color: white;
+  margin-right: 10px;
+}
+.fa-instagram-square {
+  font-size: 30px;
+  height: 40px;
+  width: 40px;
+  padding-top: 6px;
+  text-align: center;
+  background: #430297;
+  color: white;
+  margin-right: 10px;
+}
+.fa-twitter-square {
+  font-size: 30px;
+  height: 40px;
+  width: 40px;
+  padding-top: 6px;
+  text-align: center;
+  background: #55ACEE;
+  color: white;
+  margin-right: 10px;
+}
